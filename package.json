@@ -1,6 +1,6 @@
 {
   "name": "node-linkedin",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "LinkedIn 2.0 compatible wrapper in node.js",
   "main": "lib/main",
   "scripts": {
@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/Kuew/node-linkedin",
   "dependencies": {
-    "lodash": "~2.4.1",
+    "lodash": "^2.4.1",
     "request": "~2.31.0"
   }
 }
